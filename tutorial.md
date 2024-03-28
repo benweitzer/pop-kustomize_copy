@@ -91,6 +91,9 @@ You must give Cloud Build explicit permission to trigger a Google Cloud Deploy r
   * Service Account User
 
 
+## Run the GitLab - Google Cloud Integration steps here:  https://docs.gitlab.com/ee/tutorials/set_up_gitlab_google_integration/index.html
+
+
 ## Demo Overview
 
 [![Demo flow](https://user-images.githubusercontent.com/76225123/145627874-86971a34-768b-4fc0-9e96-d7a769961321.png)](https://user-images.githubusercontent.com/76225123/145627874-86971a34-768b-4fc0-9e96-d7a769961321.png)
